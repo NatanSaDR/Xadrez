@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natan\\OneDrive\\Área de Trabalho\\EstudosOOProjetoXadrez\\EstudosOOProjetoXadrez.csproj": {}
+    "C:\\Users\\Natan\\OneDrive\\Área de Trabalho\\Xadrez\\EstudosOOProjetoXadrez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natan\\OneDrive\\Área de Trabalho\\EstudosOOProjetoXadrez\\EstudosOOProjetoXadrez.csproj": {
+    "C:\\Users\\Natan\\OneDrive\\Área de Trabalho\\Xadrez\\EstudosOOProjetoXadrez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natan\\OneDrive\\Área de Trabalho\\EstudosOOProjetoXadrez\\EstudosOOProjetoXadrez.csproj",
+        "projectUniqueName": "C:\\Users\\Natan\\OneDrive\\Área de Trabalho\\Xadrez\\EstudosOOProjetoXadrez.csproj",
         "projectName": "EstudosOOProjetoXadrez",
-        "projectPath": "C:\\Users\\natan\\OneDrive\\Área de Trabalho\\EstudosOOProjetoXadrez\\EstudosOOProjetoXadrez.csproj",
-        "packagesPath": "C:\\Users\\natan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natan\\OneDrive\\Área de Trabalho\\EstudosOOProjetoXadrez\\obj\\",
+        "projectPath": "C:\\Users\\Natan\\OneDrive\\Área de Trabalho\\Xadrez\\EstudosOOProjetoXadrez.csproj",
+        "packagesPath": "C:\\Users\\Natan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natan\\OneDrive\\Área de Trabalho\\Xadrez\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\natan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Natan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
