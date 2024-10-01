@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstudosOOProjetoXadrez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a37f5a5ba1f0f13a5885fa45dd31643c499a408")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d91a556b4441ab1ea75bbec68787fcb2387e0533")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstudosOOProjetoXadrez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstudosOOProjetoXadrez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
