@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|c:\\users\\natan\\onedrive\\\u00E1rea de trabalho\\xadrez\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA44E8A-EA94-4B0E-9968-DFDB9FA2CCE3}|EstudosOOProjetoXadrez.csproj|solutionrelative:tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,26 +54,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Torre.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\xadrez\\Torre.cs",
+              "RelativeDocumentMoniker": "xadrez\\Torre.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\xadrez\\Torre.cs",
+              "RelativeToolTip": "xadrez\\Torre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:02:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rei.cs",
+              "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\xadrez\\Rei.cs",
+              "RelativeDocumentMoniker": "xadrez\\Rei.cs",
+              "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\xadrez\\Rei.cs",
+              "RelativeToolTip": "xadrez\\Rei.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:59:06.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Tela.cs",
               "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\Tela.cs",
               "RelativeDocumentMoniker": "Tela.cs",
               "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\Tela.cs",
               "RelativeToolTip": "Tela.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T00:52:14.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\tabuleiro\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "tabuleiro\\Tabuleiro.cs",
               "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\tabuleiro\\Tabuleiro.cs",
               "RelativeToolTip": "tabuleiro\\Tabuleiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T00:45:57.923Z",
               "EditorCaption": ""
@@ -78,27 +112,27 @@
               "RelativeDocumentMoniker": "tabuleiro\\Peca.cs",
               "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\tabuleiro\\Peca.cs",
               "RelativeToolTip": "tabuleiro\\Peca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T00:43:40.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Cor.cs",
               "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\tabuleiro\\Cor.cs",
               "RelativeDocumentMoniker": "tabuleiro\\Cor.cs",
               "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\tabuleiro\\Cor.cs",
               "RelativeToolTip": "tabuleiro\\Cor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T00:42:25.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Posicao.cs",
               "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\tabuleiro\\Posicao.cs",
               "RelativeDocumentMoniker": "tabuleiro\\Posicao.cs",
@@ -111,13 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Natan\\OneDrive\\\u00C1rea de Trabalho\\Xadrez\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T17:33:10.903Z",
               "EditorCaption": ""
