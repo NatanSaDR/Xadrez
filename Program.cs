@@ -6,9 +6,9 @@ namespace EstudosOOProjetoXadrez
     {
         static void Main()
         {
-            Posicao P;
+            Tabuleiro tab;
 
-            P = new Posicao(3, 4);
+            
 
             Console.WriteLine("Posicao: {0}", P);
         }
