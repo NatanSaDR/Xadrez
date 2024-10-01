@@ -6,11 +6,11 @@ namespace EstudosOOProjetoXadrez
     {
         static void Main()
         {
-            Tabuleiro tab;
+            Tabuleiro tab = new Tabuleiro(8,8);
 
-            
+            Tela.imprimirTabuleiro(tab);
 
-            Console.WriteLine("Posicao: {0}", P);
+            Console.ReadLine();
         }
     }
 }
